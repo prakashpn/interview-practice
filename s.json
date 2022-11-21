@@ -1,0 +1,44 @@
+[
+  {
+    "name": "park@gmail.com",
+    "eamil": "abc@hdfc.com",
+    "email2": "assa@gms.com",
+    "emaiadd": "park@gmail.com,abc@hdfc.com,asa@gms.com",
+    "hdfc": ""
+  },
+  {
+    "name": "aa@hdfc.com",
+    "eamil": "abs@gamil.com",
+    "email2": "assa@gms.com",
+    "emaiadd": "aa@hdfc.com,abs@gamil.com,assa@gms.com",
+    "hdfc": ""
+  },
+  {
+    "name": "aa@hdfc.com",
+    "eamil": "abs@gamil.com",
+    "email2": "asa@gms.com",
+    "emaiadd": "aa@hdfc.com,abs@gamil.com,asa@gms.com",
+    "hdfc": ""
+  },
+  {
+    "name": "abs@gamil.com",
+    "eamil": "aa@g.com",
+    "email2": "aa@hdfc.com",
+    "emaiadd": "abs@gamil.com,aa@g.com,aa@hdfc.com",
+    "hdfc": "abc@hdfc.com1"
+  },
+  {
+    "name": "aa@hdfc.com",
+    "eamil": "abs@gamil.com",
+    "email2": "assfa@gms.com",
+    "emaiadd": "aa@hdfc.com,abs@gamil.com,assfa@gms.com",
+    "hdfc": ""
+  },
+  {
+    "name": "aa@hdfc.com",
+    "eamil": "abs@gamil.com",
+    "email2": "asxa@gms.com",
+    "emaiadd": "aa@hdfc.com,abs@gamil.com,asxa@gms.com",
+    "hdfc": ""
+  }
+]
