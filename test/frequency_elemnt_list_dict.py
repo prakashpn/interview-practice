@@ -7,7 +7,7 @@ for x in a:
     else:
         outList[x] = 1
 
-print(outList)
+print("f ", outList)
 
 d1 = {'key1': 50, 'key2': 100, 'key3': 200}
 d2 = {'key1': 200, 'key2': 100, 'key4': 300}
