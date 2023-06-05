@@ -1,5 +1,6 @@
 import math
 # test
+
 def po(num, mul):
     # rsult = math.sqrt(num)
     resultPower = 0
